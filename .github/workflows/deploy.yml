@@ -11,7 +11,7 @@ env:
   IBM_CLOUD_GROUP: Default
   IBM_CLOUD_SPACE: dealership
   IBM_CLOUD_ORG: rauschme
-  MANIFEST_NAME: manifest.yaml
+  MANIFEST_NAME: manifest.yml
   IBM_CLOUD_API: ${{secrets.IBM_CLOUD_API_KEY}}
   CI: false
 
