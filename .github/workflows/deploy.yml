@@ -5,7 +5,7 @@ on:
     branches:
       - master
 
-# Environment variables available to all jobs and steps in this workflow
+# Environment variables available to all jobs and steps in this workflow now
 env:
   IBM_CLOUD_REGION: eu-gb
   IBM_CLOUD_GROUP: Default
